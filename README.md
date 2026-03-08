@@ -32,7 +32,7 @@ Sigo explorando novas áreas da tecnologia para me manter atualizado e aprimorar
 </div>
 
 ## Estou aprendendo
-<img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
 <!---
 RNTrybusy/RNTrybusy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
